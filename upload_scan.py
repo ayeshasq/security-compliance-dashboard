@@ -23,7 +23,7 @@ def upload_scan(results, system_name="macOS System", framework="CIS macOS"):
     
     # UPDATE THIS URL WITH YOUR ACTUAL VERCEL URL
     urls = [
-        'https://security-compliance-dashboard.vercel.app/api/scans',  # <-- CHANGE THIS
+        'https://security-compliance-dashboard.vercel.app',  # <-- CHANGE THIS
         'http://localhost:3000/api/scans'
     ]
     
