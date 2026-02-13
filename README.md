@@ -9,6 +9,8 @@ A comprehensive macOS security compliance scanner with real-time web dashboard v
 
 ## 🚀 Features
 
+
+
 - **17+ Security Checks** - Comprehensive CIS benchmark compliance scanning
 - **Real-time Dashboard** - Beautiful web interface with charts and visualizations
 - **Educational Insights** - Plain-English explanations for each security check
